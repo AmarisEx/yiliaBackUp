@@ -99,7 +99,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:AmarisEx/AmarisEx.github.io.git
+  repository: git@gitee.com:amarisex/AmarisEx.git
   branch: master
 
 jsonContent:
