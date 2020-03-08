@@ -3,6 +3,8 @@ title:  基于Hexo框架搭建个人博客（windows)
 date: 2020-02-29 14:03:28
 tags:
 	- Hexo
+	- git
+	- github
 ---
 
 ---
