@@ -80,6 +80,10 @@
 
 
 <% if (!index && post.comments){ %>
+    <%if (theme.livere_uid) { %>
+      <%- partial('post/livere') %>
+    <% } %>
+
   <% if (theme.duoshuo){ %>
   <%- partial('post/duoshuo', {
       key: post.slug,
