@@ -1,112 +1,74 @@
 ---
 title: Daily Sharing
-date: 2020-03-08 11:51:00
+date: 2020-03-13 12:03:00
 type: "categories"
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28892385&auto=1&height=66"></iframe>
 
-> 最初的梦想
+> 《Loving Strangers》
+>
+><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2788529&auto=1&height=66"></iframe>
 
-如果骄傲没被现实大海冷冷拍下
 
-又怎会懂得要多努力
+Loving strangers ×3
+爱上了陌生人
+Ahah
+Loving strangers ×3
+爱上了陌生人
+Ah
 
-才走得到远方
+I’ve got a hole, oh in my pocket
+我口袋破了一个洞
+where all the money has gone
+钱都从那里消失了
+I’ve got a whole lot of work to do with your heart
+我想经常存在于你的心里
+Cuz it’s so busy, mine’s not
+因为你的心很忙，我的心却很悠闲
 
-如果梦想不曾坠落悬崖千钧一发
+Loving strangers ×3
+爱上陌生人
+Ahah
+Loving strangers ×3
+爱上陌生人
+Ah
 
-又怎会晓得执着的人
+It’s just the start of the winter
+那是冬天的开始的季节
+And I’m all alone
+我独自一人
+But I’ve got my eye right on you
+我所有的目光全都在你身上
 
-拥有隐形翅膀
+Give me a coin
+给我一枚硬币
+And I'll take you to the moon
+我将带你去往月球
+Now give me a beer
+现在请给我一杯啤酒
+And I’ll kiss you so foolishly
+我将像个呆瓜一样吻你
+like you do when you lie, when you’re not in my thoughts
+你说谎的时候，不会站在我的视角考虑
+like you do when you lie
+当你说谎的时候
+And I know it’s not my imagination
+我知道那不是我的幻想
 
-把眼泪种在心上
+Loving strangers ×3
+爱啊，陌生人
+Ahah
+爱啊
+Loving strangers ×3
+爱上一个陌生人
+Ah
+啊哈
 
-会开出勇敢的花
+Loving strangers ×3
+爱啊，陌生人
+Nahnahnah
+Loving strangers ×3
+爱上了一个陌生人
+Ahah...
+Ah...
+Ah...
 
-可以在疲惫的时光
-
-闭上眼睛闻到一种芬芳
-
-就像好好睡了一夜直到天亮
-
-又能边走着边哼着歌
-
-用轻快的步伐
-
-沮丧时总会明显感到孤独的重量
-
-多渴望懂得的人给些温暖借个肩膀
-
-很高兴一路上
-
-我们的默契那么长
-
-穿过风又绕了弯
-
-心还连着像往常一样
-
-[最初的梦想](https://www.baidu.com/s?wd=最初的梦想&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao)紧握在手上
-
-最想要去的地方
-
-怎么能在半路就返航
-
-[最初的梦想](https://www.baidu.com/s?wd=最初的梦想&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao)绝对会到达
-
-实现了真的渴望
-
-才能够算到过了天堂
-
-如果骄傲没被现实大海冷冷拍下
-
-又怎会懂得要多努力才走得到远方
-
-如果梦想不曾坠落悬崖千钧一发
-
-又怎会晓得执着的人
-
-拥有隐形翅膀
-
-把眼泪种在心上
-
-会开出勇敢的花
-
-可以在疲惫的时光
-
-闭上眼睛闻到一种芬芳
-
-就像好好睡了一夜直到天亮
-
-又能边走着边哼着歌
-
-用轻快的步伐
-
-沮丧时总会明显感到孤独的重量
-
-多渴望懂得的人给些温暖借个肩膀
-
-很高兴一路上
-
-我们的默契那么长
-
-穿过风又绕了弯
-
-心还连着像往常一样
-
-[最初的梦想](https://www.baidu.com/s?wd=最初的梦想&tn=SE_PcZhidaonwhc_ngpagmjz&rsv_dl=gh_pc_zhidao)紧握在手上
-
-最想要去的地方
-
-怎么能在半路就返航
-
-最初的梦想绝对会到达
-
-实现了真的渴望
-
-才能够算到过了天堂
-
-最初的梦想绝对会到达
-
-实现了真的渴望
-
-才能够算到过了天堂
